@@ -1,0 +1,121 @@
+Bigger the population of the country, the better: #people
+China, 1412600000
+India, 1375586000
+Brazil, 215540282
+Japan, 125104000
+Germany, 84079811
+Sudan, 45007060
+Australia, 26018634
+Switzerland, 8789726
+
+Greater the atomic number, the better:
+Hydrogen, 1
+Oxygen, 8
+Gold, 79
+Argon, 18
+Carbon, 6
+Rubidium, 37
+Thulium, 69
+
+Higher the annual revenue of the company, the better: #million $
+Walmart, 572754
+Amazon, 469822
+Apple, 365817
+Toyota, 279337.7
+Samsung, 244334.9
+Alphabet, 257637
+Microsoft, 168088
+
+Higher the functional group in the priority list, the better:
+NO VALUES: DESCENDING ORDER
+carboxylic acid
+sulphonic acids
+ester
+acyl halides
+amides
+nitriles
+aldehydes
+ketones
+alcohols
+amines
+
+Greater the number of olympic medals the country has won, the better: 
+#medals
+USA, 2523
+Germany, 1346
+Russia, 1556
+France, 716
+Great Britain, 851
+Australia, 497
+Sweden, 494
+Cuba, 226
+Ukraine, 120
+Brazil, 129
+
+Greater the number of episdoes the series has, the better: #episodes
+Suits, 134
+Friends, 236
+How I Met Your Mother, 208
+The Big Bang Theory, 279
+Seinfeld, 180
+Squid Game, 9
+The Good Place, 53
+Naruto, 220
+
+Larger the area of the country, the better: #km2
+Russia, 17098246
+China, 9596961
+Canada, 9984670
+Argentina, 2780400
+Brazil, 8515767
+Australia, 7692024
+India, 3287263
+Egypt, 1002450
+Chad, 1284000
+Nigeria, 923768
+
+More reactive the metal, the better:
+NO VALUES: DESCENDING ORDER
+potassium
+sodium
+calcium
+magnesium
+aluminium
+zinc
+iron
+tin
+lead
+copper
+silver
+gold
+platnium
+
+Later the country got its independence, the better:
+Albania, 1912
+Bahrain, 1971
+Belgium, 1831
+Brazil, 1822
+Chile, 1810
+Equatorial Guinea, 1968
+Finland, 1917
+India, 1947
+Ireland, 1916
+Kenya, 1963
+South Africa, 1931
+South Sudan, 2011
+United States, 1776
+
+More electronegative the element, the better:
+hydrogen, 2.20
+lithium, 0.98
+beryllium, 1.57
+silicon, 1.90
+calcium, 1.00
+scandium, 1.36
+fluorine, 3.98
+oxygen, 3.5
+nitrogen, 3.04
+bromine, 2.96
+
+THE END
+
